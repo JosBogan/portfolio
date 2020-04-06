@@ -304,6 +304,20 @@ li {
   width: 90px
 }
 
+.about_me_more_button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 15px;
+  background: var(--purple);
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* .about_me_more_button:hover {
+  background: ;
+} */
+
 .devicon > h4 {
   color: var(--dark);
 }
